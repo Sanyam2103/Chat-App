@@ -35,7 +35,7 @@ Environment variables for Groq API key (GROQ_API_KEY)
 STEPS:- 
 
 1. clone this repository
-  git clone https://github.com/Aadarsh-07/document-conversational-ai.git
+  git clone https://github.com/Sanyam2103/
   cd document-conversational-ai
 2. Create a virtual environment:
      python -m venv venv
